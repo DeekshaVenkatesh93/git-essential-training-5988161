@@ -1,1 +1,1 @@
-Testing Visual studio,Adding new information to check the updates
+Testing Visual studio,Adding new information to check the updates. Check further on the content.
